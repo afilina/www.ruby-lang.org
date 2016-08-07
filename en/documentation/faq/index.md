@@ -33,6 +33,16 @@ header: |
 
 ---
 
+This document contains Frequently Asked Questions about Ruby with answers.
+{: .summary}
+
+This FAQ is based on "[The Ruby Language FAQ][original-faq]" originally
+compiled by Shugo Maeda and translated into English by Kentaro Goto.
+
+The code examples in this document have been run using Ruby 1.6.8.
+
+[original-faq]: http://ruby-doc.org/docs/ruby-doc-bundle/FAQ/FAQ.html
+
 ## Content
 
 * [General questions](1/)
