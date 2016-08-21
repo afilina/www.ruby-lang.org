@@ -41,7 +41,7 @@ This document contains Frequently Asked Questions about Ruby with answers.
 This FAQ is based on "[The Ruby Language FAQ][original-faq]" originally
 compiled by Shugo Maeda and translated into English by Kentaro Goto.
 
-The code examples in this document have been run using Ruby 1.6.8.
+The code examples in this document have been run using Ruby 2.3.
 
 [original-faq]: http://ruby-doc.org/docs/ruby-doc-bundle/FAQ/FAQ.html
 
